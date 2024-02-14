@@ -1,0 +1,6 @@
+[submodule "Task-Manager-Frontend"]
+	path = Task-Manager-Frontend
+	url = https://github.com/K3lvin4SY/Task-Manager-Frontend.git
+[submodule "Task-Manager-Backend"]
+	path = Task-Manager-Backend
+	url = https://github.com/K3lvin4SY/Task-Manager-Backend.git

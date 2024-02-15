@@ -1,7 +1,8 @@
 # Task Manager
 A full-stack application that allows users to handle and view tasks.
-Frontend: `React`
-Backend: `Python` with `flask`
+
+Frontend: `React`<br>
+Backend: `Python` with `flask`<br>
 Database: `MongoDB`
 
 ## Where the idea came from

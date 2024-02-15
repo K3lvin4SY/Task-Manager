@@ -37,3 +37,11 @@ Simply put, handle and show tasks.
 Depending on what user is logged into the site, it displays different tasks.
 In other words, a user will only be able to view its own tasks (If default user permissions apply).
 A user with root permission will be able to view all users' tasks. Perfect for a home display panel.
+
+### Gamification
+To make it a bit more fun to use, it will also have a gamification feature.<br>
+When completing a task assignment the user will gain a number of points.
+But if this assignment was `late` it would give fewer points. The more late it is the fewer it will get.
+And if it's `past due` some points will get redacted from the user's total amount of points.
+
+With this gamification feature, it will be possible to add a statistics page in the future.

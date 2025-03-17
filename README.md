@@ -5,14 +5,6 @@ Frontend: `React`<br>
 Backend: `Python` with `flask`<br>
 Database: `MongoDB`
 
-## Where the idea came from
-At home, I live with two roommates and we have a cleaning list on an Excel ark that says what should be cleaned and how often.
-
-But I found this inconvenient. I wanted something to keep track of what we had done and remind us when it had to be done again.
-All this will be displayed on the home display panel on the wall, where tasks will be listed under each user.
-
-So, that's why I'm creating this application that will be able to do that.
-
 ## What the Application will do
 Simply put, handle and show tasks.
 
